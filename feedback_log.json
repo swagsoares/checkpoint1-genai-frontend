@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": 1773249166.084881,
+        "classification": "POSS\u00cdVEL PNEUMONIA",
+        "mse": 0.03955399617552757,
+        "correct": true
+    },
+    {
+        "timestamp": 1773250267.0055351,
+        "classification": "BORDERLINE",
+        "mse": 0.04071904346346855,
+        "correct": false
+    }
+]
