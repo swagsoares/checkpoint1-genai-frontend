@@ -1,3 +1,11 @@
+Participantes:
+
+Arthur batista RM
+Joao Pedro RM561738
+Nelson Felix RM
+Pietro Boroto RM562407
+Vitor Gonçalves RM566181
+
 # Sistema de Triagem e Geração Sintética (VAE)
 *Projeto focado em Confiabilidade (Reliability) e Validação Humana Persistente (Human-in-the-Loop).*
 
